@@ -4,7 +4,7 @@ This Great Gatsby themed hangman game asks the user to input letters in order to
 
 Here is the deployed link to the game:
 
-https://hollywoodchase.github.io/Word-Guess-Game/
+https://hollywoodchase.github.io/gatsby-hangman/
 
 Enjoy!
 
